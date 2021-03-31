@@ -1,4 +1,4 @@
-#Ezrah Itkowsky and Jose Aguirre
+#Ezrah and Jose
 
 import os
 import hashlib
